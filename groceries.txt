@@ -2,3 +2,4 @@ bananas
 bread
 pasta
 butter
+eggs

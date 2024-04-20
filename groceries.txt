@@ -3,3 +3,4 @@ bread
 pasta
 butter
 eggs
+toilet paper

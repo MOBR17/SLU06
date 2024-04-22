@@ -2,3 +2,5 @@ douro
 alentejo
 dão
 moscatel
+licor
+ginginha
